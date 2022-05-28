@@ -108,6 +108,6 @@ else:
              .dropna(how="any")[:5])
 
 
-if st.checkbox('Show rae data', False):
-    st.subheader('RAW DATA')
-    st.write(data)
+#if st.checkbox('Show rae data', False):
+    #st.subheader('RAW DATA')
+    #st.write(data)
